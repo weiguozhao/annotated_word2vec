@@ -1,3 +1,4 @@
+
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
@@ -18,4 +19,9 @@ The script demo-word.sh downloads a small (100MB) text corpus from the web, and 
 is finished, the user can interactively explore the similarity of the words.
 
 More information about the scripts is provided at https://code.google.com/p/word2vec/
+
+comment learn from:
+> 1. https://github.com/junfenglx/word2vec
+> 2. https://blog.csdn.net/google19890102/article/details/51887344
+> 3. https://blog.csdn.net/jingquanliang/article/details/82886645
 
